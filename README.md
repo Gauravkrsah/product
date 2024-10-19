@@ -69,7 +69,7 @@ Build a database of influencers for future campaigns and long-term partnerships.
 Streamlined Process:
 
 A clear, well-structured funnel from ad interaction to application, ensuring smooth user experience.
-Scalable:
+Scalable: 
 
 This model can easily be replicated across various campaigns and products.
 Affiliate Incentives:
